@@ -1,2 +1,3 @@
-yolov3.weights: YOLOv3 weights file.
-yolov3.cfg: YOLOv3 configuration file.
+Weights: YOLOv3 Pre-trained Weights
+Configuration File: YOLOv3 Config File https://github.com/pjreddie/darknet/blob/master/cfg/yolov3.cfg
+Class Names: YOLOv3 Classes File https://github.com/pjreddie/darknet/blob/master/data/coco.names
