@@ -32,7 +32,7 @@ with open(names_path, "r") as f:
     classes = [line.strip() for line in f.readlines()]
 
 # Define the path to your dataset directory
-dataset_path = 'D:\IntelProject//archive\dataset'  # Adjust this to the path where your images and XMLs are stored
+dataset_path = 'data'  # Adjust this to the path where your images and XMLs are stored
 
 # Function to parse XML annotations
 def parse_annotations(xml_file):
