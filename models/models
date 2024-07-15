@@ -1,0 +1,2 @@
+yolov3.weights: YOLOv3 weights file.
+yolov3.cfg: YOLOv3 configuration file.
