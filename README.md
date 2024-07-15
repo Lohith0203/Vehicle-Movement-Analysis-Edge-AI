@@ -7,7 +7,7 @@ This project aims to analyze vehicle movement and generate insights using edge A
 ## Instructions for Running the Code
 1. Clone the repository:
     ```bash
-    git clone https://github.com/your-username/vehicle-movement-analysis-edge-ai.git
+    git clone https://github.com/Lohith0203/Vehicle-Movement-Analysis-Edge-AI.git
     cd vehicle-movement-analysis-edge-ai
     ```
 
@@ -18,7 +18,7 @@ This project aims to analyze vehicle movement and generate insights using edge A
 
 3. Run the application:
     ```bash
-    python src/app.py
+    python src/Vehicle-Movement-Analysis-Number-Plate-Detection.py
     ```
 
 ## Dependencies
