@@ -4,3 +4,7 @@ opencv-python
 lxml
 #Dataset from Kaggle -> https://www.kaggle.com/datasets/saisirishan/indian-vehicle-dataset
 YOLO Model for Object Detection
+Download YOLO Files:
+yolov3.weights
+yolov3.cfg
+coco.names
